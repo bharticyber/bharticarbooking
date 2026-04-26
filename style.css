@@ -1,0 +1,10 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+.car {
+  border: 1px solid #ccc;
+  padding: 15px;
+  margin: 20px;
+}
